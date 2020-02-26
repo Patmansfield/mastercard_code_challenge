@@ -9,7 +9,7 @@ To execute the application:
 
 ```bash
 1. Open bash or command terminal and navigate to directroy where the repository it to be cloned to.  
-2. Input command " git clone ADD URL
+2. Input command " git clone https://github.com/Patmansfield/mastercard_code_challenge.git "
 3. Navigate into installed directory
 4. Input command " pip install -r requirements.txt "
 5. Run application from the console by inputing command " python mastercard_code_challenge.py "
