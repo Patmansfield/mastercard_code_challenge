@@ -18,6 +18,6 @@ To execute the application:
 ## Technology
 
 ```bash
-The Mastercard Code Challenge application is written in Python language and utilises the Requests module to execute the 
-request on the API and return the JSON object for parsing.
+The Mastercard Code Challenge application is written in Python language and utilises the Requests 
+module to execute the request on the API and return the JSON object for parsing.
 ```
